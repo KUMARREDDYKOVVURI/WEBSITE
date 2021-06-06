@@ -1,0 +1,101 @@
+.NAME1{
+    padding: 0PX 0PX 0PX 50PX;
+    font-family: 'Caudex', serif;
+}
+#TAB3{
+    margin: 0PX 100PX 0PX 100PX;
+    position: absolute;
+    top: 500PX;
+}
+.MAINTABLE{
+    width: 100%;
+    height: 1280PX;
+    position: relative;
+}
+.HEAD3{
+    position: absolute;
+    top: 300PX;
+    left: 42%;
+    font-family: 'Gorditas', cursive;
+    font-size: 2.5REM;
+   
+}
+.NAME2{
+    padding: 0PX 50PX 0PX 50PX;
+}
+#ABOUT{
+    width: 100%;
+    height: 100PX;
+}
+.MAIN{
+    height: 1280PX;
+}
+.TAB2{
+    position: absolute;
+    top: 400PX;
+    left: 35%;
+}
+.TABS{
+    position: absolute;
+    top: 900PX;
+    padding: 50PX 200PX 0PX 200PX;
+    font-size: 1.3rem;
+    font-family: 'Audiowide', cursive;
+}
+.HEAD{
+    padding: 30PX 0PX 0PX 0PX;
+    font-family: 'Merienda', cursive;
+    font-size: 1.5REM;
+    
+}
+.TAB{
+    padding: 15PX 0PX 0PX 0PX;
+    position: absolute;
+    right: 2.5%;
+}
+#RESUME{
+    width: 100%;
+    height: 1280PX;
+}
+#RESUME1{
+    position: relative;
+    top: 200PX;
+    padding: 100PX 0PX 0PX 0PX;
+}
+.TAB4{
+    position: relative;
+    top: 230PX;
+}
+A{
+    text-decoration: none;
+    font-family: 'Holtwood One SC', serif;
+
+}
+BODY{
+    background-color: #beebe9;
+    margin: 0PX;
+}
+HR{
+    width: 45%;
+    border-style: none;
+    border-bottom: dotted;
+    border-width: 5PX;
+}
+.img{
+    background-color: white;
+}
+#social{
+    width: 100%;
+ 
+}
+.HEAD31{
+    font-family: 'Fredoka One', cursive;
+    font-size: 1.4REM;
+}
+.MA{
+    font-family: 'Cardo', serif;
+    font-size: 18PX;
+}
+.NAME{
+    font-family: 'Fredericka the Great', cursive;
+}
